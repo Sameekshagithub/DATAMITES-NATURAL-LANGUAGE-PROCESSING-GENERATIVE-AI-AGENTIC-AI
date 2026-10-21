@@ -1,4 +1,4 @@
-# DATAMITES – NATURAL LANGUAGE PROCESSING, GENERATIVE AI & AGENTIC AI
+# Datamites-Natural Language Processing Generative Ai and Agentic Ai
 
 ## 📌 Overview
 
