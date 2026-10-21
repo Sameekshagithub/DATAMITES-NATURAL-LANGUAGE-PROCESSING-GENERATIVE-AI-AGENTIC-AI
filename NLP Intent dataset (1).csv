@@ -1,0 +1,201 @@
+text,intent
+can you check my order,order_status
+good morning,greeting
+hey buddy,greeting
+i want my money back,refund_request
+this is defective,complaint
+poor quality product,complaint
+order status please,order_status
+please refund my money,refund_request
+i want my money back,refund_request
+hi there,greeting
+where is my order,order_status
+refund my order,refund_request
+return and refund,refund_request
+track shipment,order_status
+i want to return the product,refund_request
+return and refund,refund_request
+track shipment,order_status
+cancel and refund,refund_request
+track my order,order_status
+has my order shipped,order_status
+i want to raise a complaint,complaint
+good morning,greeting
+the item is damaged,complaint
+order tracking,order_status
+order status please,order_status
+order status please,order_status
+when will my order arrive,order_status
+order delivery update,order_status
+i am not satisfied,complaint
+bad experience with this product,complaint
+nice to meet you,greeting
+hello,greeting
+order tracking,order_status
+can you check my order,order_status
+please refund my money,refund_request
+product is not working,complaint
+very disappointed with the product,complaint
+the item is damaged,complaint
+i want a refund,refund_request
+track my order,order_status
+i want to know my order status,order_status
+please refund my money,refund_request
+hello there,greeting
+hey buddy,greeting
+poor quality product,complaint
+refund my order,refund_request
+hello there,greeting
+hey,greeting
+the item is damaged,complaint
+order tracking,order_status
+poor quality product,complaint
+i want a refund,refund_request
+hello there,greeting
+this is defective,complaint
+this product is broken,complaint
+track my order,order_status
+the item is damaged,complaint
+track shipment,order_status
+i want a refund,refund_request
+track shipment,order_status
+refund my order,refund_request
+where is my order,order_status
+good evening,greeting
+good day,greeting
+nice to meet you,greeting
+poor quality product,complaint
+good morning,greeting
+refund request,refund_request
+when will my order arrive,order_status
+this product is broken,complaint
+track shipment,order_status
+bad experience with this product,complaint
+refund my order,refund_request
+hi,greeting
+i received a damaged item,complaint
+poor quality product,complaint
+hello,greeting
+i received a damaged item,complaint
+the item is damaged,complaint
+this product is broken,complaint
+good evening,greeting
+track my order,order_status
+good evening,greeting
+i want my money back,refund_request
+return and refund,refund_request
+track shipment,order_status
+i want to return the product,refund_request
+good morning,greeting
+return and refund,refund_request
+order tracking,order_status
+nice to meet you,greeting
+i am not satisfied,complaint
+this product is broken,complaint
+hey,greeting
+hello there,greeting
+i want my money back,refund_request
+refund request,refund_request
+hey buddy,greeting
+hey buddy,greeting
+i want to raise a complaint,complaint
+good morning,greeting
+hi there,greeting
+product is not working,complaint
+very disappointed with the product,complaint
+i received a damaged item,complaint
+this product is broken,complaint
+nice to meet you,greeting
+can you check my order,order_status
+this product is broken,complaint
+this product is broken,complaint
+return and refund,refund_request
+nice to meet you,greeting
+refund request,refund_request
+i want a refund,refund_request
+when will my order arrive,order_status
+product is not working,complaint
+order status please,order_status
+good morning,greeting
+cancel and refund,refund_request
+hey buddy,greeting
+hi,greeting
+poor quality product,complaint
+please refund my money,refund_request
+how can i get a refund,refund_request
+hey buddy,greeting
+hey,greeting
+i want my money back,refund_request
+product is not working,complaint
+where is my order,order_status
+hey,greeting
+i want my money back,refund_request
+hey buddy,greeting
+track shipment,order_status
+return and refund,refund_request
+hi,greeting
+the item is damaged,complaint
+hello,greeting
+i received a damaged item,complaint
+when will my order arrive,order_status
+product is not working,complaint
+cancel and refund,refund_request
+i want to return the product,refund_request
+cancel and refund,refund_request
+hi,greeting
+order delivery update,order_status
+hello,greeting
+hi,greeting
+very disappointed with the product,complaint
+can you check my order,order_status
+i want to know my order status,order_status
+cancel and refund,refund_request
+return and refund,refund_request
+order tracking,order_status
+good evening,greeting
+good evening,greeting
+order status please,order_status
+i want a refund,refund_request
+i received a damaged item,complaint
+nice to meet you,greeting
+has my order shipped,order_status
+how can i get a refund,refund_request
+this is defective,complaint
+how can i get a refund,refund_request
+cancel and refund,refund_request
+order tracking,order_status
+order status please,order_status
+bad experience with this product,complaint
+order status please,order_status
+cancel and refund,refund_request
+track shipment,order_status
+hello there,greeting
+track shipment,order_status
+good morning,greeting
+i want to know my order status,order_status
+i want to return the product,refund_request
+how can i get a refund,refund_request
+this product is broken,complaint
+nice to meet you,greeting
+i want my money back,refund_request
+process my refund,refund_request
+hey buddy,greeting
+can you check my order,order_status
+this is defective,complaint
+very disappointed with the product,complaint
+return and refund,refund_request
+i want to raise a complaint,complaint
+order delivery update,order_status
+bad experience with this product,complaint
+where is my order,order_status
+has my order shipped,order_status
+bad experience with this product,complaint
+how can i get a refund,refund_request
+hi,greeting
+return and refund,refund_request
+i want to know my order status,order_status
+the item is damaged,complaint
+hi,greeting
+track shipment,order_status
+cancel and refund,refund_request
+product is not working,complaint
